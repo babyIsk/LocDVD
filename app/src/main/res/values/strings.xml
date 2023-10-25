@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocDVD</string>
+    //valeur entre guillemets pour éviter à l'éditeur d'interpréter d'éventuels caractères spéciaux
+    <string name="annee_de_sortie">"Année de sortie : %d "</string>
+    <string name="titre_du_film"> Titre : </string>
+    <string name="annee_de_sortie_libelle"> Annee : </string>
+    <string name="acteurs" > Acteurs : </string>
+    <string name="resume" > Resume du film : </string>
+
+</resources>
